@@ -6,9 +6,6 @@ For this project, we were tasked by a ride-sharing company named Pyber to analyz
  - Key Performance Index's = Total Rides, Total Drivers, Total Fares, Average Fare per Ride, Average fare per Driver
  - City Type Categories = Rural, Suburban, Urban
 
-![image](https://user-images.githubusercontent.com/107438816/180672821-7c82c77f-e3b6-4dc4-be32-fe5d58d54210.png)
-![image](https://user-images.githubusercontent.com/107438816/180672901-bcf3b630-e7e8-4d87-8c35-d006b0306f23.png)
-
 
 ## Key Findings
 
@@ -40,3 +37,6 @@ Lower the driver population in urban cities.
 		
 Lower Prices in Urban Areas
 - Pyber has the opportunity to adjust their ride prices to better match demand. With urban areas having a 750 driver to ride surplus, lowering the prices would increase demand in the area to better meet supply.
+
+![image](https://user-images.githubusercontent.com/107438816/180672821-7c82c77f-e3b6-4dc4-be32-fe5d58d54210.png)
+![image](https://user-images.githubusercontent.com/107438816/180672901-bcf3b630-e7e8-4d87-8c35-d006b0306f23.png)
