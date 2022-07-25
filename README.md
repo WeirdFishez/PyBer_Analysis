@@ -27,7 +27,7 @@ Total fare by city
 ## Summary
 ### Recommendations
 Hire more drivers in Rural and Suburban areas.
-- The data did not include the average duration of a trip, however assuming the average Pyber ride duration is the same across all city types, Rural and Suburban drivers are making significantly more per hour than those in Urban areas due to driver scarcity.
+- Rural and Suburban drivers are making significantly more per hour than those in Urban areas due to driver scarcity. This might be an indicator that there are too few drivers and missed opportunity in customers lost due to ride price.
 		
 Lower the driver population in urban cities.
 - If Pyber is comfortable with the driver-to-ride ratio in Rural cities, we suggest taking a look at reducing the number of drivers in cities. There are 750 more drivers than rides in Urban areas, resulting in a low avg fare per driver. This can be done by pausing the onboarding for new drivers and letting attrition reduce the number of drivers over time.
