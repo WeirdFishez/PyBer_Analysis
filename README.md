@@ -8,8 +8,8 @@ For this project, we were tasked by a ride-sharing company named Pyber to analyz
 
 <p align="center">
 
-	<![image](https://user-images.githubusercontent.com/107438816/180672821-7c82c77f-e3b6-4dc4-be32-fe5d58d54210.png)>
-	<![image](https://user-images.githubusercontent.com/107438816/180672901-bcf3b630-e7e8-4d87-8c35-d006b0306f23.png)>
+	![image](https://user-images.githubusercontent.com/107438816/180672821-7c82c77f-e3b6-4dc4-be32-fe5d58d54210.png)
+	![image](https://user-images.githubusercontent.com/107438816/180672901-bcf3b630-e7e8-4d87-8c35-d006b0306f23.png)
 </p>
 
 ## Key Findings
