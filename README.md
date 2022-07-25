@@ -21,12 +21,12 @@ For this project, we were tasked by a ride-sharing company named Pyber to analyz
 				The graph we created breaking down fare by city type across the months shows a significant increase in the number of rides on March 31st
 			
 ## Summary
-### ○ Recommendations
+### Recommendations
 Hire more drivers in Rural and Suburban areas.
-	The data did not include the average duration of a trip, however assuming the average Pyber ride duration is the same across all city types, Rural and Suburban drivers are making significantly more per hour than those in Urban areas due to driver scarcity.
+- The data did not include the average duration of a trip, however assuming the average Pyber ride duration is the same across all city types, Rural and Suburban drivers are making significantly more per hour than those in Urban areas due to driver scarcity.
 		
 Lower the driver population in urban cities.
-	If Pyber is comfortable with the driver-to-ride ratio in Rural cities, we suggest taking a look at reducing the number of drivers in cities. There are 750 more drivers than rides in Urban areas, resulting in a low avg fare per driver. This can be done by pausing the onboarding for new drivers and letting attrition reduce the number of drivers over time.
+- If Pyber is comfortable with the driver-to-ride ratio in Rural cities, we suggest taking a look at reducing the number of drivers in cities. There are 750 more drivers than rides in Urban areas, resulting in a low avg fare per driver. This can be done by pausing the onboarding for new drivers and letting attrition reduce the number of drivers over time.
 		
 Lower Prices in Urban Areas
-	Pyber has the opportunity to adjust their ride prices to better match demand. With urban areas having a 750 driver to ride surplus, lowering the prices would increase demand in the area to better meet supply.
+- Pyber has the opportunity to adjust their ride prices to better match demand. With urban areas having a 750 driver to ride surplus, lowering the prices would increase demand in the area to better meet supply.
