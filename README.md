@@ -4,7 +4,7 @@
 For this project, we were tasked by a ride-sharing company named Pyber to analyze data from 2019 and break down the KPIs by 'city type' into easy to understand visualizations.
  - Key Performance Index's = Total Rides, Total Drivers, Total Fares, Average Fare per Ride, Average fare per Driver
  - City Type Categories = Rural, Suburban, Urban
-## Results
+## Key Findings
 
 Total Rides
  - Urban cities had significantly more rides in 2019 making up 1,625 of the 2,375 total rides.
