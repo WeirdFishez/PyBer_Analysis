@@ -7,17 +7,17 @@ For this project, we were tasked by a ride-sharing company named Pyber to analyz
 ##Results:
 		
 ###	The following key-findings were uncovered in our analysis:
-			Total Rides
-				Urban cities had significantly more rides in 2019 making up 1,625 of the 2,375 total rides.
-			Total Drivers
+	Total Rides
+		Urban cities had significantly more rides in 2019 making up 1,625 of the 2,375 total rides.
+	Total Drivers
 				Urban cities also have the lion's share of active drivers in 2019, with city drivers making up 80.9% of the Pyber driver population.
-			Total Fares
+	Total Fares
 				Urban cities made up the majority of business for Pyber in 2019, making up $39,854.38 of the $63,538 total revenue
-			Average Fare per Rider
+	Average Fare per Rider
 				The avg cost of a ride is almost $10 more in urban cities compares to rural.
-			Average Fare per Driver
+	Average Fare per Driver
 				For 2019, the average Pyber driver in a rural area made $55.49 per driver. This is a stark contrast when compared to the $16.57 in Urban cities.
-			Total fare by city
+	Total fare by city
 				The graph we created breaking down fare by city type across the months shows a significant increase in the number of rides on March 31st
 			
 ##Summary:
